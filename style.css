@@ -403,7 +403,7 @@ html {
   position: absolute;
   top: 400px;
   left: calc(50% - 385px);
-  background: url("/assets/images/contact-gorm-bg.png"), rgb(255, 255, 255);
+  background: url("./assets/images/contact-gorm-bg.png"), rgb(255, 255, 255);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
@@ -492,7 +492,7 @@ html {
   background-color: #333;
   color: #fff;
   height: 549px;
-  background: url("/assets/images/footer-bg.png"), linear-gradient(45deg, rgb(85, 183, 255), rgb(126, 90, 255));
+  background: url("./assets/images/footer-bg.png"), linear-gradient(45deg, rgb(85, 183, 255), rgb(126, 90, 255));
   background-repeat: no-repeat;
   background-size: cover;
 }

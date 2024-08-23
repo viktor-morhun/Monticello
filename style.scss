@@ -461,7 +461,7 @@ html {
     position: absolute;
     top: 400px;
     left: calc(50% - 385px);
-    background: url("/assets/images/contact-gorm-bg.png"),
+    background: url("./assets/images/contact-gorm-bg.png"),
     rgba(255, 255, 255, 1);
     background-repeat: no-repeat;
     background-size: contain;
@@ -561,7 +561,7 @@ html {
   background-color: #333;
   color: #fff;
   height: 549px;
-  background: url("/assets/images/footer-bg.png"),
+  background: url("./assets/images/footer-bg.png"),
     linear-gradient(45deg, rgba(85, 183, 255, 1), rgba(126, 90, 255, 1));
   background-repeat: no-repeat;
   background-size: cover;
