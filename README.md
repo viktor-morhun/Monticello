@@ -2,7 +2,7 @@
 
 ## About
 Monticello landing page
-- [DEMO LINK](https://viktor-morhun.github.io/monticello/ )
+- [DEMO LINK](https://viktor-morhun.github.io/Monticello/ )
 
 ## Installation
 
